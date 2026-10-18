@@ -1,2 +1,3 @@
-# landing-page
-Proyecto de prueba en el que creo una landing page para una empresa/servicio generico. 
+Esta pagina no cuenta con practicamente ninguna funcionalidad, es un proyecto orientado unicamente al frontend creado para practicar mis diseños y habilidades en CSS. 
+
+Puedes ver el resultado aqui: https://leon4rdoguerra.github.io/landing-page/
